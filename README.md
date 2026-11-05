@@ -21,7 +21,13 @@ All up-to-date documentation lives in the GitHub Wiki:
   * `Pi.dev AI Coding Assistant Cheat Sheet.pdf`
   * `SKILL_DESIGNER.md`
 * `PresentationSlides.pptx` – Slide deck covering installation and documentation overview.
-* `scan-renamer-kit/` – Example kit.
+* `scan-renamer-kit/` – Example skill: rename scanned files with an approval step.
+* `meeting-actions-kit/` – Example skill: turn fictional meeting notes into decisions and follow-ups without inventing commitments.
+* `spreadsheet-check-kit/` – Example skill: flag CSV data-entry errors without changing the source.
+
+The two additional kits each include a ready-to-use `.agents/skills/` folder,
+fictional sample input, and a README with a demo prompt, expected results and
+ideas for customization. Start Pi inside the kit you want to try.
 * `tools/` – Helper scripts.
 
 Handouts are also linked directly from the wiki Home page for easy download.
