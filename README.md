@@ -22,13 +22,14 @@ All up-to-date documentation lives in the GitHub Wiki:
   * `SKILL_DESIGNER.md`
 * `PresentationSlides.pptx` – Slide deck covering installation and documentation overview.
 * `scan-renamer-kit/` – Example skill: rename scanned files with an approval step.
-* `meeting-actions-kit/` – Example skill: turn fictional meeting notes into decisions and follow-ups without inventing commitments.
+* `webpage-briefing-kit/` – Example skill: turn a webpage URL into a source-linked report, with an offline practice page.
 * `spreadsheet-check-kit/` – Example skill: flag CSV data-entry errors without changing the source.
+
+* `tools/` – Helper scripts.
 
 The two additional kits each include a ready-to-use `.agents/skills/` folder,
 fictional sample input, and a README with a demo prompt, expected results and
 ideas for customization. Start Pi inside the kit you want to try.
-* `tools/` – Helper scripts.
 
 Handouts are also linked directly from the wiki Home page for easy download.
 
